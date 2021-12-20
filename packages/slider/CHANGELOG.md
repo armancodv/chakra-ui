@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.5.3
+
+### Patch Changes
+
+- [#5265](https://github.com/chakra-ui/chakra-ui/pull/5265)
+  [`1b8e31eba`](https://github.com/chakra-ui/chakra-ui/commit/1b8e31eba557db1cdabfd2b2761a1558e2f38b34)
+  Thanks [@primos63](https://github.com/primos63)! - Allow classNames specified
+  on Slider and SliderFilledTrack to be added to the class list
+- Updated dependencies
+  [[`801008e27`](https://github.com/chakra-ui/chakra-ui/commit/801008e276812a6f94f2f5dc634bcbfe01d23026)]:
+  - @chakra-ui/hooks@1.7.2
+
 ## 1.5.2
 
 ### Patch Changes

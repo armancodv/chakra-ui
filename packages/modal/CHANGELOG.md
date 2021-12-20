@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.10.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`801008e27`](https://github.com/chakra-ui/chakra-ui/commit/801008e276812a6f94f2f5dc634bcbfe01d23026)]:
+  - @chakra-ui/hooks@1.7.2
+  - @chakra-ui/portal@1.3.2
+
 ## 1.10.2
 
 ### Patch Changes

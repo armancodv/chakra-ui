@@ -1,5 +1,19 @@
 # Change Log
 
+## 1.4.3
+
+### Patch Changes
+
+- [#5228](https://github.com/chakra-ui/chakra-ui/pull/5228)
+  [`f05f56b9a`](https://github.com/chakra-ui/chakra-ui/commit/f05f56b9a9abe27947ed32ae39d01602e1be8a76)
+  Thanks [@seancwalsh](https://github.com/seancwalsh)! - Fix broken link in
+  Tooltip JSDoc
+
+- Updated dependencies
+  [[`801008e27`](https://github.com/chakra-ui/chakra-ui/commit/801008e276812a6f94f2f5dc634bcbfe01d23026)]:
+  - @chakra-ui/hooks@1.7.2
+  - @chakra-ui/portal@1.3.2
+
 ## 1.4.2
 
 ### Patch Changes

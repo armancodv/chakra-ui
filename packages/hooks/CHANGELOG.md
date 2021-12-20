@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.2
+
+### Patch Changes
+
+- [#5237](https://github.com/chakra-ui/chakra-ui/pull/5237)
+  [`801008e27`](https://github.com/chakra-ui/chakra-ui/commit/801008e276812a6f94f2f5dc634bcbfe01d23026)
+  Thanks [@navarroaxel](https://github.com/navarroaxel)! - Add a comment about
+  useState alternative
+
 ## 1.7.1
 
 ### Patch Changes

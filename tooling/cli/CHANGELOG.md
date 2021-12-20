@@ -1,5 +1,21 @@
 # @chakra-ui/cli
 
+## 1.7.0
+
+### Minor Changes
+
+- [#5244](https://github.com/chakra-ui/chakra-ui/pull/5244)
+  [`3f1d7cf1c`](https://github.com/chakra-ui/chakra-ui/commit/3f1d7cf1ce85e8d741035ed2f40b4da59268b4ef)
+  Thanks [@TimKolberger](https://github.com/TimKolberger)! - Added token scales
+  `blur`, `borderStyles` and `borderWidths`.
+
+### Patch Changes
+
+- [#5225](https://github.com/chakra-ui/chakra-ui/pull/5225)
+  [`e9bbe3bd1`](https://github.com/chakra-ui/chakra-ui/commit/e9bbe3bd1d15dacc9edbefa4e4321404558faf39)
+  Thanks [@TimKolberger](https://github.com/TimKolberger)! - Fixed an issue
+  where the cli fails when prettier is not installed
+
 ## 1.6.0
 
 ### Minor Changes

@@ -1,5 +1,42 @@
 # Change Log
 
+## 1.7.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`1b8e31eba`](https://github.com/chakra-ui/chakra-ui/commit/1b8e31eba557db1cdabfd2b2761a1558e2f38b34),
+  [`801008e27`](https://github.com/chakra-ui/chakra-ui/commit/801008e276812a6f94f2f5dc634bcbfe01d23026),
+  [`f6fd9d8ac`](https://github.com/chakra-ui/chakra-ui/commit/f6fd9d8ac570c21353bd023916c6f3821180ee1a),
+  [`f05f56b9a`](https://github.com/chakra-ui/chakra-ui/commit/f05f56b9a9abe27947ed32ae39d01602e1be8a76)]:
+  - @chakra-ui/slider@1.5.3
+  - @chakra-ui/hooks@1.7.2
+  - @chakra-ui/radio@1.4.4
+  - @chakra-ui/tooltip@1.4.3
+  - @chakra-ui/accordion@1.4.3
+  - @chakra-ui/button@1.5.2
+  - @chakra-ui/checkbox@1.6.2
+  - @chakra-ui/counter@1.2.2
+  - @chakra-ui/editable@1.3.2
+  - @chakra-ui/form-control@1.5.3
+  - @chakra-ui/image@1.1.2
+  - @chakra-ui/menu@1.8.3
+  - @chakra-ui/modal@1.10.3
+  - @chakra-ui/number-input@1.3.3
+  - @chakra-ui/pin-input@1.7.2
+  - @chakra-ui/popover@1.11.1
+  - @chakra-ui/portal@1.3.2
+  - @chakra-ui/provider@1.7.4
+  - @chakra-ui/skeleton@1.2.4
+  - @chakra-ui/tabs@1.6.2
+  - @chakra-ui/toast@1.5.1
+  - @chakra-ui/switch@1.3.2
+  - @chakra-ui/system@1.8.4
+  - @chakra-ui/input@1.3.3
+  - @chakra-ui/select@1.2.3
+  - @chakra-ui/textarea@1.2.3
+  - @chakra-ui/avatar@1.3.2
+
 ## 1.7.3
 
 ### Patch Changes
